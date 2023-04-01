@@ -1,1 +1,2 @@
 Monk Shifters was ported to OpenXR on April 1, and no that was not an April Fools joke! Get it from the discord now!
+Also, you can get Oculus and SteamVR versions seperately so you don't have to switch from OpenXR Runtimes.
