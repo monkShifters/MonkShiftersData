@@ -1,1 +1,1 @@
-Welcome to Monk Shifters! I am so proud that I have FINALLY saved performance, which is a VERY HEAVY requirement for Oculus games!
+Monk Shifters was ported to OpenXR on April 1, and no that was not an April Fools joke! Get it from the discord now!
